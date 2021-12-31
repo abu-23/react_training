@@ -1,0 +1,44 @@
+
+html{
+    font-size:15px;
+  }
+  #main {
+    margin: 30px 10px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+  }
+  body{
+    text-align:center;
+    line-height:2rem;
+    margin:0px
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin:auto;
+    
+  }
+  #img-div{
+    background:white;
+    text-align:centre;
+  }
+  #img-caption{
+    
+  }
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  li{
+    margin:1.5rem;
+  }
+  blockquote{
+    text-align:left;
+    max-width:545px;
+    margin: 0px auto 10px auto;
+  }
